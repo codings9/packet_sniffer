@@ -1,4 +1,4 @@
-On you Linux machine.
+On your Linux machine.
 Just type: ifconfig.
 Then change the network interface on the script: eth0, lo, or wlan0
 Last line in the code.
