@@ -10,5 +10,8 @@ You would change to
 
 sniff("eth0")
 
+Then:
+python packet_sniffer.py
+
 Video here:
 https://www.youtube.com/watch?v=rys-wmsZS70
